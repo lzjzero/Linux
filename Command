@@ -1,0 +1,3 @@
+关机 shutdown
+shutdown -h  
+shutdown -c  取消前一个关机指令
