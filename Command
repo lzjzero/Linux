@@ -3,6 +3,9 @@ ping      使用ICMP传输协议，发出要求回应的信息，来得知远端
 ping -c   在-c后输入数字确定要求回应的次数
 （使用ctrl+c取消前端运行的ping）
 
+登出
+exit
+
 关机
 shutdown 
 shutdown -h  
