@@ -1,4 +1,9 @@
-关机 
+网络操作
+ping      使用ICMP传输协议，发出要求回应的信息，来得知远端主机运行是否正常
+ping -c   在-c后输入数字确定要求回应的次数
+（使用ctrl+c取消前端运行的ping）
+
+关机
 shutdown 
 shutdown -h  
 shutdown -c  取消前一个关机指令
